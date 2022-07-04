@@ -1,0 +1,90 @@
+\\Mac\Home\Desktop\Heather's College Course\Fun Projects (C#)\QuizMeetScorekeeper\bin\Debug\MainForm.cs
+\\Mac\Home\Desktop\Heather's College Course\Fun Projects (C#)\QuizMeetScorekeeper\bin\Debug\MainForm.Designer.cs
+\\Mac\Home\Desktop\Heather's College Course\Fun Projects (C#)\QuizMeetScorekeeper\bin\Debug\QuizMeet.mdf
+\\Mac\Home\Desktop\Heather's College Course\Fun Projects (C#)\QuizMeetScorekeeper\bin\Debug\QuizMeet_log.ldf
+\\Mac\Home\Desktop\Heather's College Course\Fun Projects (C#)\QuizMeetScorekeeper\bin\Debug\QuizMeetScorekeeper.exe.config
+\\Mac\Home\Desktop\Heather's College Course\Fun Projects (C#)\QuizMeetScorekeeper\bin\Debug\QuizMeetScorekeeper.exe
+\\Mac\Home\Desktop\Heather's College Course\Fun Projects (C#)\QuizMeetScorekeeper\bin\Debug\QuizMeetScorekeeper.pdb
+\\Mac\Home\Desktop\Heather's College Course\Fun Projects (C#)\QuizMeetScorekeeper\obj\Debug\QuizMeetScorekeeper.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\Heather's College Course\Fun Projects (C#)\QuizMeetScorekeeper\obj\Debug\QuizMeetScorekeeper.MainForm.resources
+\\Mac\Home\Desktop\Heather's College Course\Fun Projects (C#)\QuizMeetScorekeeper\obj\Debug\QuizMeetScorekeeper.Properties.Resources.resources
+\\Mac\Home\Desktop\Heather's College Course\Fun Projects (C#)\QuizMeetScorekeeper\obj\Debug\QuizMeetScorekeeper.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\Heather's College Course\Fun Projects (C#)\QuizMeetScorekeeper\obj\Debug\QuizMeetScorekeeper.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Heather's College Course\Fun Projects (C#)\QuizMeetScorekeeper\obj\Debug\QuizMeetScorekeeper.exe
+\\Mac\Home\Desktop\Heather's College Course\Fun Projects (C#)\QuizMeetScorekeeper\obj\Debug\QuizMeetScorekeeper.pdb
+\\Mac\Home\Desktop\Heather's College Course\Fun Projects (C#)\QuizMeetScorekeeper\bin\Debug\IndividualChurchesForm.resx
+\\Mac\Home\Desktop\Heather's College Course\Fun Projects (C#)\QuizMeetScorekeeper\bin\Debug\IndividualChurchesForm.cs
+\\Mac\Home\Desktop\Heather's College Course\Fun Projects (C#)\QuizMeetScorekeeper\bin\Debug\IndividualChurchesForm.Designer.cs
+\\Mac\Home\Desktop\Heather's College Course\Fun Projects (C#)\QuizMeetScorekeeper\obj\Debug\QuizMeetScorekeeper.IndividualChurchesForm.resources
+\\Mac\Home\Desktop\Heather's College Course\Fun Projects (C#)\QuizMeetScorekeeper\obj\Debug\QuizMeetScorekeeper.QuizzersForm.resources
+\\Mac\Home\Desktop\Heather's College Course\Fun Projects (C#)\QuizMeetScorekeeper\obj\Debug\QuizMeetScorekeeper.ChurchesForm.resources
+\\Mac\Home\Desktop\Heather's College Course\Fun Projects (C#)\QuizMeetScorekeeper\obj\Debug\QuizMeetScorekeeper.IndividualQuizzersForm.resources
+\\Mac\Home\Desktop\Heather's College Course\Fun Projects (C#)\QuizMeetScorekeeper\obj\Debug\QuizMeetScorekeeper.IndividualTeamsForm.resources
+\\Mac\Home\Desktop\Heather's College Course\Fun Projects (C#)\QuizMeetScorekeeper\obj\Debug\QuizMeetScorekeeper.TeamsForm.resources
+\\Mac\Home\Desktop\Heather's College Course\Fun Projects (C#)\QuizMeetScorekeeper\obj\Debug\QuizMeetScorekeeper.IndividualQuizMeetsForm.resources
+\\Mac\Home\Desktop\Heather's College Course\Fun Projects (C#)\QuizMeetScorekeeper\obj\Debug\QuizMeetScorekeeper.QuizMeetsForm.resources
+\\Mac\Home\Desktop\Heather's College Course\Fun Projects (C#)\QuizMeetScorekeeper\obj\Debug\QuizMeetScorekeeper.QuizzerScoresForm.resources
+\\Mac\Home\Desktop\Heather's College Course\Fun Projects (C#)\QuizMeetScorekeeper\obj\Debug\QuizMeetScorekeeper.IndividualQuizzerScoresForm.resources
+\\Mac\Home\Desktop\Heather's College Course\Fun Projects (C#)\QuizMeetScorekeeper - To Publish\bin\Debug\IndividualChurchesForm.resx
+\\Mac\Home\Desktop\Heather's College Course\Fun Projects (C#)\QuizMeetScorekeeper - To Publish\bin\Debug\IndividualChurchesForm.cs
+\\Mac\Home\Desktop\Heather's College Course\Fun Projects (C#)\QuizMeetScorekeeper - To Publish\bin\Debug\IndividualChurchesForm.Designer.cs
+\\Mac\Home\Desktop\Heather's College Course\Fun Projects (C#)\QuizMeetScorekeeper - To Publish\bin\Debug\MainForm.cs
+\\Mac\Home\Desktop\Heather's College Course\Fun Projects (C#)\QuizMeetScorekeeper - To Publish\bin\Debug\MainForm.Designer.cs
+\\Mac\Home\Desktop\Heather's College Course\Fun Projects (C#)\QuizMeetScorekeeper - To Publish\bin\Debug\QuizMeet.mdf
+\\Mac\Home\Desktop\Heather's College Course\Fun Projects (C#)\QuizMeetScorekeeper - To Publish\bin\Debug\QuizMeet_log.ldf
+\\Mac\Home\Desktop\Heather's College Course\Fun Projects (C#)\QuizMeetScorekeeper - To Publish\bin\Debug\QuizMeetScorekeeper.exe.config
+\\Mac\Home\Desktop\Heather's College Course\Fun Projects (C#)\QuizMeetScorekeeper - To Publish\bin\Debug\QuizMeetScorekeeper.exe
+\\Mac\Home\Desktop\Heather's College Course\Fun Projects (C#)\QuizMeetScorekeeper - To Publish\bin\Debug\QuizMeetScorekeeper.pdb
+\\Mac\Home\Desktop\Heather's College Course\Fun Projects (C#)\QuizMeetScorekeeper - To Publish\obj\Debug\QuizMeetScorekeeper.ChurchesForm.resources
+\\Mac\Home\Desktop\Heather's College Course\Fun Projects (C#)\QuizMeetScorekeeper - To Publish\obj\Debug\QuizMeetScorekeeper.IndividualChurchesForm.resources
+\\Mac\Home\Desktop\Heather's College Course\Fun Projects (C#)\QuizMeetScorekeeper - To Publish\obj\Debug\QuizMeetScorekeeper.IndividualQuizMeetsForm.resources
+\\Mac\Home\Desktop\Heather's College Course\Fun Projects (C#)\QuizMeetScorekeeper - To Publish\obj\Debug\QuizMeetScorekeeper.IndividualQuizzerScoresForm.resources
+\\Mac\Home\Desktop\Heather's College Course\Fun Projects (C#)\QuizMeetScorekeeper - To Publish\obj\Debug\QuizMeetScorekeeper.IndividualQuizzersForm.resources
+\\Mac\Home\Desktop\Heather's College Course\Fun Projects (C#)\QuizMeetScorekeeper - To Publish\obj\Debug\QuizMeetScorekeeper.IndividualTeamsForm.resources
+\\Mac\Home\Desktop\Heather's College Course\Fun Projects (C#)\QuizMeetScorekeeper - To Publish\obj\Debug\QuizMeetScorekeeper.MainForm.resources
+\\Mac\Home\Desktop\Heather's College Course\Fun Projects (C#)\QuizMeetScorekeeper - To Publish\obj\Debug\QuizMeetScorekeeper.Properties.Resources.resources
+\\Mac\Home\Desktop\Heather's College Course\Fun Projects (C#)\QuizMeetScorekeeper - To Publish\obj\Debug\QuizMeetScorekeeper.QuizMeetsForm.resources
+\\Mac\Home\Desktop\Heather's College Course\Fun Projects (C#)\QuizMeetScorekeeper - To Publish\obj\Debug\QuizMeetScorekeeper.QuizzerScoresForm.resources
+\\Mac\Home\Desktop\Heather's College Course\Fun Projects (C#)\QuizMeetScorekeeper - To Publish\obj\Debug\QuizMeetScorekeeper.QuizzersForm.resources
+\\Mac\Home\Desktop\Heather's College Course\Fun Projects (C#)\QuizMeetScorekeeper - To Publish\obj\Debug\QuizMeetScorekeeper.TeamsForm.resources
+\\Mac\Home\Desktop\Heather's College Course\Fun Projects (C#)\QuizMeetScorekeeper - To Publish\obj\Debug\QuizMeetScorekeeper.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\Heather's College Course\Fun Projects (C#)\QuizMeetScorekeeper - To Publish\obj\Debug\QuizMeetScorekeeper.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Heather's College Course\Fun Projects (C#)\QuizMeetScorekeeper - To Publish\obj\Debug\QuizMeetScorekeeper.exe
+\\Mac\Home\Desktop\Heather's College Course\Fun Projects (C#)\QuizMeetScorekeeper - To Publish\obj\Debug\QuizMeetScorekeeper.pdb
+\\Mac\Home\Desktop\Heather's College Course\Fun Projects (C#)\QuizMeetScorekeeper - To Publish\bin\Debug\QuizMeetScorekeeper.exe.manifest
+\\Mac\Home\Desktop\Heather's College Course\Fun Projects (C#)\QuizMeetScorekeeper - To Publish\bin\Debug\QuizMeetScorekeeper.application
+\\Mac\Home\Desktop\Heather's College Course\Fun Projects (C#)\QuizMeetScorekeeper - To Publish\obj\Debug\QuizMeetScorekeeper.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\Heather's College Course\Fun Projects (C#)\QuizMeetScorekeeper - To Publish\obj\Debug\QuizMeetScorekeeper.exe.manifest
+\\Mac\Home\Desktop\Heather's College Course\Fun Projects (C#)\QuizMeetScorekeeper - To Publish\obj\Debug\QuizMeetScorekeeper.application
+\\Mac\Home\Downloads\QuizMeetScorekeeper - To Publish\bin\Debug\QuizMeet.mdf
+\\Mac\Home\Downloads\QuizMeetScorekeeper - To Publish\bin\Debug\QuizMeet_log.ldf
+\\Mac\Home\Downloads\QuizMeetScorekeeper - To Publish\bin\Debug\IndividualChurchesForm.resx
+\\Mac\Home\Downloads\QuizMeetScorekeeper - To Publish\bin\Debug\IndividualChurchesForm.cs
+\\Mac\Home\Downloads\QuizMeetScorekeeper - To Publish\bin\Debug\IndividualChurchesForm.Designer.cs
+\\Mac\Home\Downloads\QuizMeetScorekeeper - To Publish\bin\Debug\MainForm.cs
+\\Mac\Home\Downloads\QuizMeetScorekeeper - To Publish\bin\Debug\MainForm.Designer.cs
+\\Mac\Home\Downloads\QuizMeetScorekeeper - To Publish\bin\Debug\QuizMeetScorekeeper.exe.config
+\\Mac\Home\Downloads\QuizMeetScorekeeper - To Publish\bin\Debug\QuizMeetScorekeeper.exe.manifest
+\\Mac\Home\Downloads\QuizMeetScorekeeper - To Publish\bin\Debug\QuizMeetScorekeeper.application
+\\Mac\Home\Downloads\QuizMeetScorekeeper - To Publish\bin\Debug\QuizMeetScorekeeper.exe
+\\Mac\Home\Downloads\QuizMeetScorekeeper - To Publish\bin\Debug\QuizMeetScorekeeper.pdb
+\\Mac\Home\Downloads\QuizMeetScorekeeper - To Publish\obj\Debug\QuizMeetScorekeeper.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\QuizMeetScorekeeper - To Publish\obj\Debug\QuizMeetScorekeeper.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Downloads\QuizMeetScorekeeper - To Publish\obj\Debug\QuizMeetScorekeeper.ChurchesForm.resources
+\\Mac\Home\Downloads\QuizMeetScorekeeper - To Publish\obj\Debug\QuizMeetScorekeeper.IndividualChurchesForm.resources
+\\Mac\Home\Downloads\QuizMeetScorekeeper - To Publish\obj\Debug\QuizMeetScorekeeper.IndividualQuizMeetsForm.resources
+\\Mac\Home\Downloads\QuizMeetScorekeeper - To Publish\obj\Debug\QuizMeetScorekeeper.IndividualQuizzerScoresForm.resources
+\\Mac\Home\Downloads\QuizMeetScorekeeper - To Publish\obj\Debug\QuizMeetScorekeeper.IndividualQuizzersForm.resources
+\\Mac\Home\Downloads\QuizMeetScorekeeper - To Publish\obj\Debug\QuizMeetScorekeeper.IndividualTeamsForm.resources
+\\Mac\Home\Downloads\QuizMeetScorekeeper - To Publish\obj\Debug\QuizMeetScorekeeper.MainForm.resources
+\\Mac\Home\Downloads\QuizMeetScorekeeper - To Publish\obj\Debug\QuizMeetScorekeeper.Properties.Resources.resources
+\\Mac\Home\Downloads\QuizMeetScorekeeper - To Publish\obj\Debug\QuizMeetScorekeeper.QuizMeetsForm.resources
+\\Mac\Home\Downloads\QuizMeetScorekeeper - To Publish\obj\Debug\QuizMeetScorekeeper.QuizzerScoresForm.resources
+\\Mac\Home\Downloads\QuizMeetScorekeeper - To Publish\obj\Debug\QuizMeetScorekeeper.QuizzersForm.resources
+\\Mac\Home\Downloads\QuizMeetScorekeeper - To Publish\obj\Debug\QuizMeetScorekeeper.TeamsForm.resources
+\\Mac\Home\Downloads\QuizMeetScorekeeper - To Publish\obj\Debug\QuizMeetScorekeeper.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\QuizMeetScorekeeper - To Publish\obj\Debug\QuizMeetScorekeeper.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\QuizMeetScorekeeper - To Publish\obj\Debug\QuizMeetScorekeeper.exe.manifest
+\\Mac\Home\Downloads\QuizMeetScorekeeper - To Publish\obj\Debug\QuizMeetScorekeeper.application
+\\Mac\Home\Downloads\QuizMeetScorekeeper - To Publish\obj\Debug\QuizMeetScorekeeper.exe
+\\Mac\Home\Downloads\QuizMeetScorekeeper - To Publish\obj\Debug\QuizMeetScorekeeper.pdb
